@@ -1,0 +1,241 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+h1 {
+   color: #444444;
+   margin: 0 0 15px 0;
+   text-align: center;
+}
+
+h2 {
+   color: #444444;
+   margin: 15px 0 15px;
+   text-align: center;
+}
+.h2 {
+   font-style:italic;
+   text-decoration:underline;
+}
+h3{
+  color: #444444;
+  padding-top: 20px;
+  border-bottom:1px solid #444444;
+  margin: 10px 0 10px 0;
+}
+.gschool{
+  border-bottom:none;
+}
+p {
+  color:#444444;
+  margin:0 0 10px 0;
+}
+
+a {
+  color:#0000ff;
+}
+
+ul {
+  padding-left:40px;
+}
+li {
+  margin-bottom: 5px;
+  color:#444444
+}
+body {
+  font-family:Arial, "Time New Roman", sans-serif;
+  padding: 10px;
+  background: #00BFFF ;
+  background-size: 1980px;
+}
+
+.click{
+  font-weight:bold;
+  font-style:italic;
+}
+.nav {
+  margin-top:10px;
+}
+.nav li{
+  text-align:left;
+  margin-left:20px;
+  padding-right:20px;
+  padding-left:0px;
+}
+.home{
+  padding:0;
+ text-align:center;
+ font-size:20px;
+ margin:20px;
+ font-weight: bold;
+ text-transform: capitalize;
+ }
+.home li {
+  display: inline;
+  padding-right: 20px;
+}
+.header{
+  padding: 15px 20px 15px 15px;
+  margin:0px auto 0px auto;
+  background-color:#F08080;
+}
+.header img{
+  display:block;
+  margin:0px auto 0px auto;
+  height:250px;
+  border: 2px solid #000000;
+
+}
+
+
+.content-section{
+  padding: 15px;
+  width: 1000px;
+
+  margin: 0 auto 20px auto;
+}
+.content-section img{
+  float:left;
+  padding-right:80px;
+}
+.contect-section {
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color:#E0FFFF;
+  line-height: 26px;
+}
+.contect-section p{
+  line-height: 26px;
+}
+/*.immigration img{
+  display:block;
+  margin:0 auto 0 auto
+  height:250px;
+*/
+}
+.boarding{
+  margin-top:290px;
+
+}
+.boarding li {
+  font-style:normal;
+  font-size:16px;
+  line-height:20px;
+}
+.boarding li:last-child {
+  margin-bottom:50px;
+}
+.memory {
+  padding: 0px;
+  list-style-type:none;
+}
+.memory li{
+  display:inline;
+  padding-left:10px;
+
+}
+.school img{
+   height:220px;
+   border:2px solid #000000;
+   margin:10px 0px 20px 120px;
+}
+.intern img{
+  height:220px;
+  border:2px solid #000000;
+  margin:10px 0px 20px 250px;
+}
+.line1{
+  display:block;
+  margin:10px auto 0 150px;
+  text-align: center;
+  width:300px;
+  font-style:italic;
+  border-bottom: 1px solid #000000;
+}
+.line2{
+  display:block;
+  text-align: center;
+  margin:-20px 100px 0 auto;
+  width:300px;
+  font-style:italic;
+  border-bottom: 1px solid #000000;
+}
+.picture2{
+  display:block;
+  margin:10px auto 0 100px;
+}
+.picture2 li{
+  display:inline;
+  padding-right:20px;
+  margin-left:20px;
+  display:inline;
+}
+
+.immigration {
+  padding-top:20px;
+  padding-bottom:40px;
+  background-color: #E0FFFF;
+}
+.highschool img{
+  padding:5px;
+  height:200px;
+  border:2px solid #000000;
+  background: #eaeaed
+}
+.ucdavis img{
+  padding:5px;
+  height:200px;
+  border:2px solid #000000;
+  background: #eaeaed
+}
+.laketahoe img{
+  padding:5px;
+  height:200px;
+  border:2px solid #000000;
+  background: #eaeaed
+}
+
+.galpic {
+  height:100px;
+  display:block;
+  margin:0px auto 10px auto;
+  background-image:url(images/back.jpg);
+}
+.section1{
+  border: 2px solid #4B0082;
+  padding: 0px 10px 5px 10px;
+  margin-bottom: 5px;
+
+}
+.web {
+  height: 250px;
+  display:block;
+  margin:0px auto 0px 30px;
+  padding-bottom:20px;
+}
+.content-section img {
+  float:right;
+  margin: 0px 600px 0px 0px;
+}
+.after {
+  border:none;
+}
+.abouth{
+    font-size:80px;
+}
+
+.ending{
+  border-top: 2px solid #000000;
+  padding-top:10px;
+  text-align:center;
+}
+
+.sf {
+  margin: 0;
+  color:#ffffff;
+  padding:5px 0 5px 15px;
+  text-transform:capitalize;
+  font-style:italic;
+}
